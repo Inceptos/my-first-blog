@@ -25,7 +25,7 @@ SECRET_KEY = 'gm5e-$d4xf29naojy-4zx%-8a8xmh^pi5)m$^&&22($2kqcq_v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sanya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'inceptos.pythonanywhere.com']
 
 
 # Application definition
